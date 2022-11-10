@@ -2,8 +2,10 @@
 Repo for testing out git/github  
 
 *this is branch1*  
-**this is branch2**
+**this is branch2**  
+
 **And branch2's second commit**  
+Another change for branch2
 
 
 - Download git CLI.
