@@ -1,6 +1,10 @@
 # ForgeGit
-Repo for testing out git/github
+Repo for testing out git/github  
+
 *this is branch1*  
+**this is branch2**
+**And branch2's second commit**  
+
 
 - Download git CLI.
 - Clone the repo:  
